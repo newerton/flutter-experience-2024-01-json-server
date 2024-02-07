@@ -17,5 +17,5 @@ auth:
         method: get
     - /users:
         method: post
-    - /admins:
+    - /adm_users:
         method: post
